@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BasicITCenter</string>
+    <string name="context">Context</string>
+    <string name="popup">PopUp</string>
+    <string name="medium">Medium</string>
+    <string name="small">Small</string>
+    <string name="large">Large</string>
+</resources>
